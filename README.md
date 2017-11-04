@@ -1,4 +1,6 @@
+#See it 
 
+Go at the following adress : https://stationf-test-booking.herokuapp.com/ 
 
 #Technologies
 
@@ -13,7 +15,7 @@ Install the following on your own
 Heroku CLI
 Node.js 
 
-Décompresser fichier
+DÃ©compresser fichier
 
 $ cd nom_dossier
 $ npm install -g @angular/cli
